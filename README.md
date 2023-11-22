@@ -1,0 +1,2 @@
+# simple-login
+Simple login page. Based off Web Dev Simplified's tutorial found [here](https://www.youtube.com/watch?v=-RCnNyD0L-s&list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj&index=6&ab_channel=WebDevSimplified).
